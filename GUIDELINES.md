@@ -25,7 +25,7 @@ When playing in the Knockout Cup or Daily Race you must follow these rules
   - Cruiser vaulting
   - Gift Box Manipulation
   - Ban from competitive modes ranging from 7 days to permanent.
-- Do not use mods that are not included as part of the competitive approved mod list
+- Do not use mods that are not included as part of the [competitive approved mod list](https://github.com/DiomedesLC/meta/blob/main/COMPETITIVE_MOD_LIST.md)
   - Ban from competitive modes ranging from 30 days to permanent. 
 - Do not modify approved mods
   - This includes patching/modifying as well as using forks (unoffical builds)
