@@ -1,8 +1,7 @@
-`019eab0f-b0c8-954a-10ef-57f05751e554`. 35 mods + Diomedes
+`01a12348-5576-39f6-4a97-5dbcba11b2f5`. 35 mods
 
 - [BepInExPack by BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)
 - [OdinSerializer by Lordfirespeed](https://thunderstore.io/c/lethal-company/p/Lordfirespeed/OdinSerializer/)
-- [LethalNetworkAPI by xilophor](https://thunderstore.io/c/lethal-company/p/xilophor/LethalNetworkAPI/)
 - [LethalCompany_InputUtils by Rune580](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)
 - [DetourContext_Dispose_Fix by Hamunii](https://thunderstore.io/c/lethal-company/p/Hamunii/DetourContext_Dispose_Fix/)
 - [MonkeyInjectionLibrary by mattymatty](https://thunderstore.io/c/lethal-company/p/mattymatty/MonkeyInjectionLibrary/)
